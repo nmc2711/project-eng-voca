@@ -1,0 +1,135 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "id": 4,
+      "day": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": true
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "school",
+      "kor": "학교",
+      "isDone": true
+    },
+    {
+      "id": 6,
+      "day": 3,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "day": "3",
+      "eng": "house",
+      "kor": "집",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "day": "2",
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": "4",
+      "eng": "monkey",
+      "kor": "원숭이",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": "3",
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "1",
+      "eng": "melon",
+      "kor": "멜론",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "1",
+      "eng": "monster",
+      "kor": "괴물",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "3",
+      "eng": "hole",
+      "kor": "구멍",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "day": "5",
+      "eng": "magic",
+      "kor": "마술",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "day": "6",
+      "eng": "dog",
+      "kor": "개",
+      "isDone": false,
+      "id": 17
+    },
+    {
+      "day": "1",
+      "eng": "name",
+      "kor": "이름",
+      "isDone": false,
+      "id": 18
+    },
+    {
+      "day": "1",
+      "eng": "glass",
+      "kor": "안경",
+      "isDone": false,
+      "id": 19
+    },
+    {
+      "day": "3",
+      "eng": "ready",
+      "kor": "준비",
+      "isDone": false,
+      "id": 20
+    }
+  ]
+}
